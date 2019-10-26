@@ -1,3 +1,3 @@
-"hello_world" = hello world"
+"hello_world" = hello worl
 
-puts "hello_world"
+hello_world
